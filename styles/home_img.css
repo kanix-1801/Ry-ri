@@ -1,0 +1,66 @@
+
+/* home_image */
+
+.frount-img{
+    border-radius: 100%;
+    width: 10rem;
+    margin: 0.4rem;
+    margin-bottom: 2rem;
+  }
+  .frount-img:hover{
+    /* border-radius: 100%; */
+    /* width: 11rem; */
+    background-color: #a09e9ea7;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  
+  .frount-main-img{
+    border-radius: 20% / 100%;
+    height: 12rem;
+    margin: 0.4rem;
+  }
+  .frount-main-img:hover{
+    /* border-radius: 100%; */
+    /* width: 11rem; */
+    background-color: #a09e9ea7;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  
+  
+  /* 
+  .donert-img{
+    border-radius: 100%;
+    width: 10rem;
+    margin: 0.4rem;
+  }
+  .donert-img:hover{
+    border-radius: 100%;
+    width: 16rem;
+  }
+  .pizza-img{
+    border-radius: 100%;
+    width: 10rem;
+    margin: 0.4rem;
+  }
+  .pizza-img:hover{
+    border-radius: 100%;
+    width: 16rem;
+  }
+  .bugger-img{
+    border-radius: 100%;
+    width: 10rem;
+    margin: 0.4rem;
+  }
+  .bugger-img:hover{
+    border-radius: 100%;
+    width: 16rem;
+  }
+  .takko-img{
+    border-radius: 100%;
+    width: 10rem;
+    margin: 0.4rem;
+  }
+  .takko-img:hover{
+    border-radius: 100%;
+    width: 16rem;
+  } */

@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Splash&display=swap');
+/* font-family: 'Splash', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Hebrew:wght@700&display=swap');
+/* font-family: 'IBM Plex Sans Hebrew', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+/* font-family: 'Rubik', sans-serif; */
+body{
+  background-color: #DFDFDE;
+}
+
+.main-body{
+  
+  background-color: #DFDFDE;
+  padding-bottom: 0px;
+  /* margin: 0; */
+}
+.main-nav-container{
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+  /* padding-bottom: 10px; */
+  /* box-shadow: 1px 2px 5px 5px rgba(0, 0, 0, 0.174); */
+  background-color: #F5F5F5;
+  border-radius: 2%;
+  /* border: 3px #AD8B73 solid; */
+  ;
+}
+.container-fluid {
+  padding: 2% 2% 0% 2%;
+}
+
+/* navbar style */
+.navbar {
+    padding: 0 0 2.9rem;
+    /* padding-bottom: 0%; */
+}
+
+.navbar-brand{
+    font-family: 'Splash', cursive;
+    font-size: 2.8rem;
+}
+
+.nav-link {
+    /* font-size: 1.4rem; */
+    /* color: aliceblue; */
+    color: black;
+    font-family: 'IBM Plex Sans Hebrew', sans-serif;
+    font-size: 1.3rem;
+}
+.nav-link:hover{
+    color:#787A91;
+    text-decoration:rgba(145, 168, 177, 0.279) wavy underline;
+}
+.nav-item {
+    padding: 0 18px;
+}
+
+
+ /* nav-bar-end  */
+
+
+/* menu 
+.card{
+  background: linear-gradient(to right,#FFE6E6, #F2D1D1);
+} */
+.card-margin{
+  /* border-radius: 100%; */
+  /* margin: 0; */
+  margin: auto;
+  padding: auto;
+
+  /* padding: 6px 6px; */
+  margin-bottom: 20px;
+}
+.card-margin:hover{
+
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+  border-color: #34106e50;
+}
+
+.btn:hover{
+  box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+  transform: translateY(-5px);
+}
+/* .card-margin-left{
+  margin-left: 2rem;
+  margin-right: 0.8rem;
+}
+
+.card-margin-right{
+  margin-right: 2rem;
+  margin-left: 0.8rem;
+} */
+.gradient-custom {
+  /* fallback for old browsers */
+  /* background: #667eea; */
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right,#2e02493b, #570a573b,#A910793b);
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right,#2e02493b, #570a573b,#A910793b)
+}

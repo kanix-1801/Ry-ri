@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital@1&display=swap');
+
+p{
+    font-size: 2rem;
+    /* font-family: 'Edu SA Beginner', cursive; */
+    font-family: 'Ibarra Real Nova', serif;
+    color: #050a30cb;
+}
+
+.navbar-expand-lg{
+    padding-bottom: 0;
+}
