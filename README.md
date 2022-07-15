@@ -12,7 +12,7 @@ Online Food Delivery
 A online Food Delivery management system site company wants to build a sample Front End prototype website for their business as the online food industry has been growing at an incredible rate, and so have grown challenges. To build a whole website they have chosen Azure Cloud Platform.
 
 ## Project Description*:
-Core Idea of Project is to build an sample prototype online Food Delivery management system website with the help of HTML, CSS and Bootstrp. The business-to-consumer aspect of product (restaurant management system) is the most visible business use of the World Wide Web. The primary goal of sample prototype a Food Delivery management system is to provide contents online with solving problems of customer solution.
+Core Idea of Project is to build an sample prototype online Food Delivery management system website with the help of HTML, CSS and Bootstrp. The business-to-consumer aspect of product (Food Delivery management system) is the most visible business use of the World Wide Web. The primary goal of sample prototype a Food Delivery management system is to provide contents online with solving problems of customer solution.
 
 ## Primary Azure Technology*:
 Static Web Apps, Static Web Apps,
@@ -29,5 +29,6 @@ no
 
 ## SS OF MY WEBSITE:-
 
-##VIDEO URL :-
+## VIDEO URL :-
+https://youtu.be/9c8vhhzRAA0
 
