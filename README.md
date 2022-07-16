@@ -25,7 +25,8 @@ no
 
 ## Project Link (GitHub repository URL):
 
-## Project Demo URL:
+## Project Demo URL:-
+https://calm-sky-01ddad710.1.azurestaticapps.net/
 
 ## SS OF MY WEBSITE:-
 
