@@ -23,7 +23,8 @@ A Static Web Application is any web application that can be delivered directly t
 ## Other Azure Technologies:-
 no
 
-## Project Link (GitHub repository URL):
+## Project Link (GitHub repository URL):-
+https://github.com/kanix-1801/Ry-ri.git
 
 ## Project Demo URL:-
 https://calm-sky-01ddad710.1.azurestaticapps.net/
