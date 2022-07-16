@@ -1,5 +1,5 @@
 # Ry-ri
-food delivery website.
+## food delivery website.
 This is the project created for Microsoft Future Ready Talent Virtual Internship Program.
 
 ## Industry*:
@@ -30,6 +30,13 @@ https://github.com/kanix-1801/Ry-ri.git
 https://calm-sky-01ddad710.1.azurestaticapps.net/
 
 ## SS OF MY WEBSITE:-
+![ssx1](https://user-images.githubusercontent.com/72912708/179338385-7ad6450d-4b6a-45d6-abcf-b6ec74b5a55a.png)
+![ssx2](https://user-images.githubusercontent.com/72912708/179338370-cf73cf0f-ffa1-4969-9995-fd5d39301a51.png)
+![ssx3](https://user-images.githubusercontent.com/72912708/179338374-6723fe42-7a1f-4249-a1e5-8304f67cb212.png)
+![ssx4](https://user-images.githubusercontent.com/72912708/179338359-7cbfdc5a-d81a-49b8-b777-cbee3c88a0c5.png)
+![ssx6](https://user-images.githubusercontent.com/72912708/179338393-1f7fa7a3-c30c-438b-af74-346912be086c.png)
+
+
 
 ## VIDEO URL :-
 https://youtu.be/9c8vhhzRAA0
